@@ -6,7 +6,7 @@ from langchain import OpenAI
 import os
 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 llm = OpenAI()
