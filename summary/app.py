@@ -5,7 +5,7 @@ import glob
 import os
 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 llm=OpenAI()
